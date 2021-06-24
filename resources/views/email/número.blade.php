@@ -1,0 +1,1 @@
+<p> Hola {{ $user->name }}, este es el número que me has pasado {{ $numero }}</p>
